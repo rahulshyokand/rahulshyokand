@@ -19,7 +19,7 @@ Website : [Wilyer Engineering Learn ](https://wilyerengineering.github.io/learn/
 
 I’m currently learning Django, Flutter, JavaScript, Android Dev, DevOps anything that needs to done to transform my idea to product.
 
-![Top Langs](https://github-readme-stats-three-lac.vercel.app/api/top-langs/?username=rahulshyokand&hide=html&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats-three-lac.vercel.app/api/top-langs/?username=rahulshyokand&hide=html,css&theme=radical&count_private=true)
 
 
 ⚡ Fun fact: I solve Rubik's Cubes of most types and yes Rubik's Cube Blindfolded too 
